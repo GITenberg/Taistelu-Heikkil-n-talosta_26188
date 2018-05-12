@@ -15,6 +15,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Johannes_Linnankoski
     - http://en.wikipedia.org/wiki/Johannes_Linnankoski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26188#Taistelu-Heikkil-n-talosta
 gutenberg_issued: '2008-08-04'
 gutenberg_type: Text
 identifiers:
