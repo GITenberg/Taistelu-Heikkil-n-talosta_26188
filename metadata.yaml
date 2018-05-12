@@ -1,0 +1,30 @@
+_repo: Taistelu-Heikkil-n-talosta_26188
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linnankoski, Johannes
+    alias: Peltonen, Vihtori
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '4130'
+    url: http://www.gutenberg.org/2009/agents/4130
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Johannes_Linnankoski
+    - http://en.wikipedia.org/wiki/Johannes_Linnankoski
+description: ''
+gutenberg_issued: '2008-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26188'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish fiction'
+title: Taistelu Heikkilän talosta
+url: http://www.gutenberg.org/ebooks/26188
